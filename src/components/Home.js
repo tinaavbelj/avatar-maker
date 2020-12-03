@@ -5,6 +5,7 @@ import Avatar from "./Avatar";
 import Color from "./Color";
 import Hair from "./Hair";
 import Shape from "./Shape";
+
 import {
   colors as c,
   contentWidthNarrow,

@@ -2,6 +2,7 @@ import React from "react";
 
 const AvatarBunHairRoundedSquare = ({ colors }) => (
   <svg
+    id="avatar-bun-rounded-square"
     xmlns="http://www.w3.org/2000/svg"
     width="150"
     height="150"

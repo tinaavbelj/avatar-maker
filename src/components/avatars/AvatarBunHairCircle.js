@@ -2,6 +2,7 @@ import React from "react";
 
 const AvatarBunHairCircle = ({ colors }) => (
   <svg
+    id="avatar-bun-circle"
     xmlns="http://www.w3.org/2000/svg"
     width="150"
     height="150"

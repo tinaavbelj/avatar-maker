@@ -1,9 +1,9 @@
 export const colors = {
   stroke: "#000000",
-  skin: "#42C1F4",
-  hair: "#EF9CBA",
-  bg: "#f2e4c2",
-  shirt: "#5198c4",
+  skin: "#F2E4C2",
+  hair: "#FF7A50",
+  bg: "#213793",
+  shirt: "#5198C4",
   white: "#FFFFFF",
   black: "#000000",
   text: "#000000",
